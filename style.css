@@ -73,7 +73,7 @@ img{
     }
     img {
         box-sizing: border-box;
-        /*ho usato il box sizing:border-box per includere il suo padding nel proprio contenuto*/
+        /*viene usato il box sizing:border-box per includere il padding dell'immagine nell'altezza e larghezza del proprio contenuto*/
         width: 50%;
         object-fit: contain;
     }
