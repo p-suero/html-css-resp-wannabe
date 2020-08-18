@@ -1,1 +1,1 @@
-<p>#7 Primo layout con divisione pagina in 12 colonne (tipo bootstrap)</p>
+<p>#7 Layout responsive sviluppato con l' utilizzo delle media query</p>
